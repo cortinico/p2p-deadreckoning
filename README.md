@@ -5,5 +5,5 @@ Questa presentazione presenta il meccanismo del Dead Reckoning ([link wikipedia]
 
 La seguente relazione rappresenta il primo assignment del corso di Peer-2-Peer della Laurea Magistrale dell'Università di Pisa ([Pagina del Corso](https://elearning.di.unipi.it/moodle/course/view.php?id=14))
 
-
+![MMOG](https://github.com/cortinico/p2p-deadreckoning/raw/master/lol.jpg)
 
